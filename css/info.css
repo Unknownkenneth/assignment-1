@@ -1,11 +1,38 @@
-body {
+#bear{
   font-family: Courier New;
   background-color: silver;
   text-align: center;
 }
 
-.lion{
+#lion{
  font-family :'Courier New', Courier, monospace;
  background-color: rgb(180, 75, 75);
 text-align: center;
-}suck my cock and  eat my balls until they all squeaky clean;
+}
+
+
+#ant{
+font-family: Courier New;
+  background-color:brown;
+  text-align: center;
+  color: white;
+
+}
+
+
+#fox{
+  font-family: Courier New;
+  background-color: rgb(199, 121, 33);
+  text-align: center;
+  color: white;
+}
+
+
+
+.list{
+  display: inline-block;
+  text-align: left;
+
+
+  
+}
